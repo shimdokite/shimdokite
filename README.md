@@ -1,10 +1,8 @@
-## Hi there 👋
+## Hello World, I'm Web Developer 🌏
 
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=shimdokite)](https://solved.ac/shimdokite)
+### Skills
 
-## Tech Stack
-
-### Frontend
+#### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css&logoColor=white)
@@ -20,7 +18,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
 
-### Backend
+#### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -29,6 +27,13 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+<br />
+
+### Solved Ranking
+
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=shimdokite)](https://solved.ac/shimdokite)
+
 
 <!--
 **shimdokite/shimdokite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
